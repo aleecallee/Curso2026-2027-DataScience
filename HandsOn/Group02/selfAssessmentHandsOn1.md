@@ -27,5 +27,4 @@ The project uses an open dataset about BiciMAD stations in Madrid.
 The application requirements include a description of the proposed
 interface and conceptual mock-ups.
 
-The README.md file will be completed with the names and GitHub
-usernames of all group members before the final submission.
+

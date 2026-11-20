@@ -11,6 +11,6 @@ Smart Cities project focused on sustainable mobility in Madrid.
 - Alfonso Alamillo Torcal
   - GitHub: alfon-20
 - Javier Gonzalo Parejo
-  - GitHub: javigonn
+  - GitHub:  javigonn
 - Mateo Bustamante Mansito
-- GitHub:mbm26
+  - GitHub:  mbm26
